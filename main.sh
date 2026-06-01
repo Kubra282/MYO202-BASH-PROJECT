@@ -2,9 +2,10 @@
 
 # Kübra Fison
 # 2420191055
-# https://github.com/Kubra282/MYO202-BASH-PROJECT-/blob/main/Docker_Temelleri_Sertifika.pdf
-# https://github.com/Kubra282/MYO202-BASH-PROJECT-/blob/main/Siber_Güvenlikte_Linux_İşletim_Sistemleri_Sertifika.pdf
-#https://github.com/Kubra282/MYO202-BASH-PROJECT-/blob/main/1007ea62-4dac-44d2-a69c-a256059b2dcf.pdf
+# https://www.btkakademi.gov.tr/portal/certificates/validate?certificateId=bx1hL8d2oG
+# https://www.btkakademi.gov.tr/portal/certificates/validate?certificateId=pKmhqqO7eZ
+# https://credsverse.com/credentials/1007ea62-4dac-44d2-a69c-a256059b2dcf
+
 # 1. Log dosyası oluşturma ve ISO formatında tarih/saat ekleme
 LOG_FILE="report.log"
 echo "$(date --iso-8601=seconds)" > "$LOG_FILE"
